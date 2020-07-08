@@ -1,4 +1,4 @@
-# Mutichannel_Gas_Sensor  [![Build Status](https://travis-ci.com/Seeed-Studio/Mutichannel_Gas_Sensor.svg?branch=master)](https://travis-ci.com/Seeed-Studio/Mutichannel_Gas_Sensor)
+# Mutichannel_Gas_Sensor
 
 > Note: This forked version works with any development that has Serial defined. The original gives a compile version for unknown platforms.
 
