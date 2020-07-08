@@ -45,7 +45,7 @@
 #elif defined (ARDUINO_ARCH_AVR)
     #define _SERIAL Serial
 #else
-    #error "Architecture not matched"
+    #define _SERIAL Serial
 #endif
 
 
