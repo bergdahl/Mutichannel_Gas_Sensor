@@ -1,4 +1,7 @@
 # Mutichannel_Gas_Sensor  [![Build Status](https://travis-ci.com/Seeed-Studio/Mutichannel_Gas_Sensor.svg?branch=master)](https://travis-ci.com/Seeed-Studio/Mutichannel_Gas_Sensor)
+
+> Note: This forked version works with any development that has Serial defined. The original gives a compile version for unknown platforms.
+
 This Arduino library is used for driving "Xadow - Mutichannel Gas Sensor" and "Grove - Mutichanel Gas Sensor"
 
 <img src=https://statics3.seeedstudio.com/images/product/101020088%201.jpg width=400><img src=https://statics3.seeedstudio.com/product/101020088%201_01.jpg width=400>
